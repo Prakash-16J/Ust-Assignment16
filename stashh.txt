@@ -1,0 +1,3 @@
+Performing stash operations
+Editingg
+This is the last line
